@@ -1,0 +1,7 @@
+click==8.1.7
+
+[dev]
+pytest==7.4.3
+mypy==1.7.0
+ruff==0.1.6
+types-click==7.1.7

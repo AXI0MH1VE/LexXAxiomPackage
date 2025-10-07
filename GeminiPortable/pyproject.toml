@@ -1,0 +1,23 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gemini-portable-cli"
+version = "1.0.0"
+authors = [{ name = "Alexis Adams", email = "alexis.adams @axiomhive.local" }]
+description = "A sovereign, local-first CLI wrapper with 4D memory for pluggable LLM backends."
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "click==8.1.7"
+]
+
+[project.optional-dependencies]
+dev = ["pytest==7.4.3", "mypy==1.7.0", "ruff==0.1.6", "types-click==7.1.7"]
+
+[project.scripts]
+gemini = "gemini_portable.cli:main"
+
+[tool.mypy]
+strict = true

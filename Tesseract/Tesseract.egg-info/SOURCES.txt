@@ -1,0 +1,5 @@
+pyproject.toml
+Tesseract.egg-info/PKG-INFO
+Tesseract.egg-info/SOURCES.txt
+Tesseract.egg-info/dependency_links.txt
+Tesseract.egg-info/top_level.txt
