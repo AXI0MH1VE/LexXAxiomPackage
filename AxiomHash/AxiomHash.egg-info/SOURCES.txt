@@ -1,0 +1,5 @@
+pyproject.toml
+AxiomHash.egg-info/PKG-INFO
+AxiomHash.egg-info/SOURCES.txt
+AxiomHash.egg-info/dependency_links.txt
+AxiomHash.egg-info/top_level.txt

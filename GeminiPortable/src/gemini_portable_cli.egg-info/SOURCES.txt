@@ -1,0 +1,11 @@
+pyproject.toml
+src/gemini_portable/cli.py
+src/gemini_portable/memory4d.py
+src/gemini_portable/backends/local_stub.py
+src/gemini_portable_cli.egg-info/PKG-INFO
+src/gemini_portable_cli.egg-info/SOURCES.txt
+src/gemini_portable_cli.egg-info/dependency_links.txt
+src/gemini_portable_cli.egg-info/entry_points.txt
+src/gemini_portable_cli.egg-info/requires.txt
+src/gemini_portable_cli.egg-info/top_level.txt
+tests/test_memory4d.py
