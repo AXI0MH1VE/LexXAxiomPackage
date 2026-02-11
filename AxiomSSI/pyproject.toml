@@ -10,7 +10,7 @@ description = "A local-first, sovereign self-identity tool for key management an
 readme = "README.md"
 requires-python = ">=3.8"
 dependencies = [
-    "cryptography==46.0.1",
+    "cryptography==46.0.5",
     "click==8.1.7"
 ]
 
