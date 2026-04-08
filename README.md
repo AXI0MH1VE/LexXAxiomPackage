@@ -1,5 +1,5 @@
 # AxiomHive: Sovereign, Local-First, Verifiable Software Ecosystem
-
+**CREATED BY: NICHOLAS M. GROSSI**
 ![AxiomHive Logo Placeholder](docs/img/axiomhive_logo.png)
 
 Welcome to AxiomHive, a pioneering software ecosystem built on the principles of **Determinism (H=0)**, **Sovereignty (Local-First)**, **Verifiable Integrity**, **Ethics-by-Default**, and **Offline-First**. Our mission is to empower individuals and teams with absolute control over their data and computational environment, free from external dependencies and opaque supply chains.
